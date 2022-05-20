@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Omrik\CLionProjects\linuxEx2 -B C:\Users\Omrik\CLionProjects\linuxEx2\cmake-build-debug
+-- Configuring done
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+libzip
+    linked by target "untitled" in directory C:/Users/Omrik/CLionProjects/linuxEx2
+
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.
